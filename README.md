@@ -71,13 +71,13 @@ pip install -r requirements.txt
 
 ## ▶️ Running the Application
 
-### Start the Backend (FastAPI)
+### Locate to the backend folder and start the Backend (FastAPI)
 ```bash
 uvicorn main:app --reload
 ```
 - Access the API at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
-### Start the Frontend (Streamlit)
+### Locate to the frontend folder in anotehr termianl and start the Frontend (Streamlit)
 ```bash
 streamlit run frontend.py
 ```
@@ -118,7 +118,7 @@ We welcome contributions! Please fork the repository, create a feature branch, a
 
 ## 📧 Contact
 
-For questions, suggestions, or feedback, reach out via [GitHub Issues](https://github.com/Abdul00YO/Climate-Policy-Maker/issues) or connect with the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or feedback, reach out via [GitHub Issues](https://github.com/Abdul00YO/Climate-Policy-Maker/issues) or connect with the project maintainer at [abdullaharshadsialkot@gmail.com](mailto:abdullaharshadsialkot@gmail.com).
 
 ---
 
