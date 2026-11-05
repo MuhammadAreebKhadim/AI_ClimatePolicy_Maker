@@ -108,18 +108,4 @@ streamlit run frontend.py
 
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please fork the repository, create a feature branch, and submit a pull request. For major changes, open an issue first to discuss your ideas.
-
----
-
-## 📧 Contact
-
-For questions, suggestions, or feedback, reach out via [GitHub Issues](https://github.com/Abdul00YO/Climate-Policy-Maker/issues) or connect with the project maintainer at [abdullaharshadsialkot@gmail.com](mailto:abdullaharshadsialkot@gmail.com).
-
----
-
 🌱 **Build a greener future with Climate Policy Maker!**
